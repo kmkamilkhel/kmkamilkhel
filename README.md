@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @kmkamilkhel
-- 👀 I’m interested in Python and javascript
-- 🌱 I’m currently learning ..............
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🌿 Kaleem Mehmood, Ph.D.
+🔬 Environmental Remote Sensing | 🌍 Forest Management | 📊 Data Science
 
-<!---
-kmkamilkhel/kmkamilkhel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a passionate environmental remote sensing expert with a Ph.D. in Forest Management. My work integrates cutting-edge geospatial technologies, machine learning, and vegetation dynamics to drive sustainable forestry practices. With extensive experience in both academic and applied research, I focus on leveraging R, Python, and Google Earth Engine for data-driven insights in forest conservation, land cover dynamics, and vegetation health. Let’s collaborate on projects that advance sustainable management through geospatial innovation.
+
