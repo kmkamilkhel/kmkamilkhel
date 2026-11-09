@@ -2,6 +2,8 @@
 
 Lecturer in Forest Sciences at the Institute of Forest Sciences, University of Swat, Pakistan. PhD in Forestry from Beijing Forestry University (2022–2025), in the Forest Management and Remote Sensing lab. I work on forest remote sensing: vegetation–climate dynamics, burn severity and recovery, land-cover change, and biomass and carbon.
 
+Tools: Python (xarray, rioxarray, geopandas), R, Google Earth Engine, QGIS.
+
 ## Software
 
 **[eofigs](https://github.com/kmkamilkhel/eofigs)**: publication-ready figures for Earth observation research in Python (study area maps, trend maps with significance, event composites, accuracy scatters, journal presets and a figure check).
