@@ -4,18 +4,17 @@ Lecturer in Forest Sciences at the Institute of Forest Sciences, University of S
 
 Tools: Python (xarray, rioxarray, geopandas), R, Google Earth Engine, QGIS.
 
-## Software
+## eofigs
 
-**[eofigs](https://github.com/kmkamilkhel/eofigs)**: publication-ready figures for Earth observation research in Python (study area maps, trend maps with significance, event composites, accuracy scatters, journal presets and a figure check).
+[eofigs](https://github.com/kmkamilkhel/eofigs) makes publication-ready figures for Earth observation research in Python: `pip install eofigs` [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24053760.svg)](https://doi.org/10.5281/zenodo.24053760)
 
-[![PyPI](https://img.shields.io/pypi/v/eofigs.svg)](https://pypi.org/project/eofigs/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24053760.svg)](https://doi.org/10.5281/zenodo.24053760)
-
-<a href="https://kmkamilkhel.github.io/eofigs/"><img src="https://kmkamilkhel.github.io/eofigs/gallery/images/trend_map_swat.png" alt="eofigs trend map: NDVI trend in the Swat valley, 2001–2024" width="560"></a>
-
-```bash
-pip install eofigs
-```
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://github.com/kmkamilkhel/eofigs"><img src="https://kmkamilkhel.github.io/eofigs/gallery/cards/study_area_swat.png" alt="Study area map: Swat valley"></a><br><b>Study area map</b></td>
+<td width="33%" align="center"><a href="https://github.com/kmkamilkhel/eofigs"><img src="https://kmkamilkhel.github.io/eofigs/gallery/cards/trend_map_swat.png" alt="Trend map: Swat valley NDVI 2001–2024"></a><br><b>Trend map</b></td>
+<td width="33%" align="center"><a href="https://github.com/kmkamilkhel/eofigs"><img src="https://kmkamilkhel.github.io/eofigs/gallery/cards/fdr_synthetic.png" alt="Significance with false discovery rate control"></a><br><b>False discovery rate</b></td>
+</tr>
+</table>
 
 ## Research areas
 
